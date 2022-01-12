@@ -1,0 +1,20 @@
+.footer{
+    position: absolute;
+    padding-left: 40px;
+    width: 100%;
+    height: auto;
+    background-color: #1E5E81;
+}
+.footer-container{
+    font-size: 14px;
+    color: blac;
+    padding: 70px 0;
+    padding-left: 70px 0;
+}
+ul{
+    list-style: none;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
